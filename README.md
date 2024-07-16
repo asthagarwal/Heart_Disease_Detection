@@ -1,1 +1,2 @@
 # Heart_Disease_Detection
+Heart disease prediction uses machine learning algorithms to analyze medical data and detect patterns that could suggest potential heart problems. This approach enables early detection and timely intervention, ultimately saving lives.This heart disease prediction project can cause delays in diagnosing and treating the disease. Also, these methods don’t provide real-time monitoring or personalized risk assessment, which is a big problem.
